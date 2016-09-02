@@ -1,4 +1,4 @@
-package com.tanc.designpattern.entity;
+package com.tanc.designPattern.singleton;
 
 /**
  * 单例模式 : 饿汉式

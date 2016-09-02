@@ -1,10 +1,8 @@
-package com.tanc.designpattern.entitty;
+package com.tanc.designPattern.singleton;
 
-import com.tanc.designpattern.entity.Singleton;
-import com.tanc.designpattern.entity.Singleton2;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 /**
  * 单例模式测试类

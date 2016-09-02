@@ -1,4 +1,4 @@
-package com.tanc.designpattern.entity;
+package com.tanc.designPattern.simpleFactory;
 
 /**
  * 产品类A

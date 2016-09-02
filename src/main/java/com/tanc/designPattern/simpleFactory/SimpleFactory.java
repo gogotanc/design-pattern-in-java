@@ -1,4 +1,4 @@
-package com.tanc.designpattern.entity;
+package com.tanc.designPattern.simpleFactory;
 
 /**
  * 简单工厂模式
