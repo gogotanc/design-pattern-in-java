@@ -2,8 +2,6 @@ package com.tanc.designPattern.observer;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
 /**
  * 观察者模式（监听器模式）测试类
  * Created by tanc on 2016/11/24.
