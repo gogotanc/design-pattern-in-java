@@ -1,4 +1,4 @@
-package com.tanc.designPattern.factoryMethod;
+package com.tanc.designPattern.factory.method;
 
 /**
  * 工厂方法设计模式(工厂模式) : 抽象工厂类
@@ -6,5 +6,5 @@ package com.tanc.designPattern.factoryMethod;
  */
 public interface Factory {
 
-    public Goods createGoods();
+    Goods createGoods();
 }

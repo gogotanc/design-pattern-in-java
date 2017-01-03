@@ -1,4 +1,4 @@
-package com.tanc.designPattern.factoryMethod;
+package com.tanc.designPattern.factory.method;
 
 /**
  * 抽象商品类

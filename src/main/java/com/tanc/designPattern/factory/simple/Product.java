@@ -1,4 +1,4 @@
-package com.tanc.designPattern.simpleFactory;
+package com.tanc.designPattern.factory.simple;
 
 /**
  * 产品抽象类

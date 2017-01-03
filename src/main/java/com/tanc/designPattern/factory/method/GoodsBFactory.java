@@ -1,4 +1,4 @@
-package com.tanc.designPattern.factoryMethod;
+package com.tanc.designPattern.factory.method;
 
 /**
  * 具体工厂B 生产B商品
