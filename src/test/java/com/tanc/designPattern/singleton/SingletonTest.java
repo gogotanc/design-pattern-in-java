@@ -25,4 +25,12 @@ public class SingletonTest {
 
         assertEquals(true, singleton == singleton2);
     }
+
+    @Test
+    public void sinletonTest3() {
+        Singleton3 singleton = Singleton3.getInstance();
+        Singleton3 singleton3 = Singleton3.getInstance();
+
+        assertEquals(true, singleton == singleton3);
+    }
 }
