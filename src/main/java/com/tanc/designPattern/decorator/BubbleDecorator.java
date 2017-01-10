@@ -11,6 +11,7 @@ public class BubbleDecorator extends CoffeeExtraDecorator {
         super(coffee);
     }
 
+    @Override
     public double cost() {
         return this.coffee.cost() + 9.0;
     }
