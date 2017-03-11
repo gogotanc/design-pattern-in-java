@@ -27,10 +27,35 @@ public class SingletonTest {
     }
 
     @Test
-    public void sinletonTest3() {
+    public void singletonTest3() {
         Singleton3 singleton = Singleton3.getInstance();
         Singleton3 singleton3 = Singleton3.getInstance();
 
         assertEquals(true, singleton == singleton3);
+    }
+
+    @Test
+    public void singletonTest4() {
+        Singleton4 singleton = Singleton4.getInstance();
+        Singleton4 singleton4 = Singleton4.getInstance();
+
+        assertEquals(true, singleton == singleton4);
+    }
+
+    @Test
+    public void singletonTest5() {
+        Singleton5 singleton = Singleton5.getInstance();
+        Singleton5 singleton5 = Singleton5.getInstance();
+
+        assertEquals(true, singleton == singleton5);
+    }
+
+    @Test
+    public void singletonTest6() {
+        Singleton6 singleton = Singleton6.INSTANCE;
+        Singleton6 singleton6 = Singleton6.INSTANCE;
+
+        singleton.method();
+        singleton6.method();
     }
 }
