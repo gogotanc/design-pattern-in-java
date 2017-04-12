@@ -17,7 +17,7 @@
 - [x] 工厂方法模式 Factory Method
 - [x] 抽象工厂模式 Abstract Factory
 - [x] 单例模式 Singleton
-- [ ] 建造者模式 Builder
+- [x] 建造者模式 Builder
 - [ ] 原型模式 Prototype
 
 ### 结构型模式 Structural Design Patterns
